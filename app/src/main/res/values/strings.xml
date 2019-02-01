@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WikiAPITutorial</string>
+    <string name="subjects">Subject</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subject_topic">Subject Topic</string>
+    <string name="link_url">URL</string>
+    <string name="word_count">Word Count</string>
+    <string name="wiki_subject">Wiki Subject</string>
+    <string name="favorite_subject">Favorite Subject</string>
+</resources>

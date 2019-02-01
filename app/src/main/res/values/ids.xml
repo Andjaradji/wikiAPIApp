@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainContainerID" type="id" />
+    <item name="bottomLayoutID" type="id" />
+    <item name="bottomNavigationID" type="id" />
+    <item name="rvQueryListID" type="id" />
+    <item name="tvHitCount" type="id" />
+    <item name="rvFavSubject" type="id" />
+    <item name="tvQUeryTitleID" type="id" />
+    <item name="tvQueryLinkID" type="id" />
+    <item name="tvSubjectTopicID" type="id" />
+    <item name="tvLinkUrlID" type="id" />
+    <item name="tvWordCountID" type="id" />
+    <item name="rvFavSubjectID" type="id" />
+</resources>
